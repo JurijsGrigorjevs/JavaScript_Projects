@@ -43,3 +43,8 @@ document.write(Sent1 + Sent2);
 
 //an expression
 document.write(33 * 84);
+
+// creating function
+function displayDate() {
+    document.getElementById("time").innerHTML = Date();
+}
