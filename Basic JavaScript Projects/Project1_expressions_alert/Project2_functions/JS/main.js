@@ -8,3 +8,9 @@ function My_First_Function() {  //Defining a function and naming it
 function displayDate() {
     document.getElementById("time").innerHTML = Date();
 }
+ //a function that uses the += operator
+function myFunction() {
+    var sentence = "I am learning";
+    sentence += "a lot from this book!";
+    document.getElementById("Concatenate").innerHTML = sentence;
+}
