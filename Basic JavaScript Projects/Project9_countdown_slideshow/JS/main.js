@@ -1,3 +1,6 @@
+//  Async and Defer
+alert(document.getElementById("p1").innerHTML);
+
 //We will now put much of the code you’ve learned to use and create a timer that will countdown by seconds.
 function countdown() {
     var seconds = document.getElementById("seconds").value;
