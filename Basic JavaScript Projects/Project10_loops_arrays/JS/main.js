@@ -139,3 +139,21 @@ function break_contionue_Function() {
 
     document.getElementById("break_continue").innerHTML = text + "<br>" + number +"<br>" + number1;
 }
+
+
+//  Arrow Function
+Arrow_Function = () => {
+var car;
+car = (val) => "These are my favorite car brands: " + val;
+    document.getElementById("Arrow").innerHTML = car("Honda, Lexus, and Ford");
+}
+
+// Array .Some() Method
+array_Function = () => {
+    var ages = [2, 3, 5, 4, 62, 5, 3];
+    // Using the arrow function to pass in parameter of age 
+    checkAge = (age) => age >= 18;
+
+        // Use the .some() to iterate throuugh the array of ages and display the result.
+        document.getElementById("array").innerHTML = ages.some(checkAge);
+}
