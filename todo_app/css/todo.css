@@ -1,0 +1,49 @@
+/* ToDo Application todo.css */
+html {
+    font-family: "Avenir Next", Helvetica, sans-serif;
+    text-align: center;
+}
+
+body {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: blanchedalmond;
+}
+
+input {
+    padding-top: 30px;
+    width: 500px;
+    height: 60px;
+    font-size: 40px;
+    border: 0;
+    color: blue;
+}
+
+      input:focus {
+    outline: none;
+       }
+
+li {
+    text-align: left;
+    font-size: 40px;
+    list-style: none;
+    margin: 0;
+  text-align: center; 
+  height: 5vh;
+}
+
+.remove {
+    padding-bottom: 5px;
+    color: red;
+}
+
+.footer {
+  padding: 10px 20px; 
+  position: fixed;
+  text-align: center; 
+}
+
+#add {
+    color: green;
+    font-size: larger;
+}
