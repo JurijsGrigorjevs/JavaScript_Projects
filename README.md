@@ -37,8 +37,8 @@ The project is complete and serves as a demonstration of skills acquired during 
 The project was developed based on the knowledge and materials provided in the course. All code and design were created independently as part of the course.
 
 ## **Author Information**
-- Author: Jurijs Grigorjevs
-- Contact: yurijg@hotmail.com
+- Author:     Jurijs Grigorjevs
+- Contact:    yurijg@hotmail.com
 
 ## **License**
 This project is closed source as part of the curriculum. It is intended for educational purposes only and not for redistribution or modification outside of the course's scope.
