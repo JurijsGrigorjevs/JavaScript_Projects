@@ -1,4 +1,4 @@
-## **JavaScript_Projects**
+## **JavaScript Projects**
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
 
 ## **Introduction**
